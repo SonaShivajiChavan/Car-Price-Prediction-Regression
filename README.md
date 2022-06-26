@@ -1,5 +1,7 @@
 ## Data Analysis on vehicle from Car-Dekho dataset using Python Libraries.
 
+<img alt="" class="cf lc ld" src="https://miro.medium.com/max/1400/1*ftnM93QhlS0A7I55QegbrA.jpeg" width="700" height="467" loading="lazy" role="presentation">
+
 ## Objective:
 In this project, i'm trying to analyse and visualize the used car prices from the dataset, to predict the most probable car prices with the use of basic linear regression models: Linear Regression, Ridge Regression, Lasso Regression, Decision Tree Regressor, Random Forest Regressor.
 The aim is to develop a good regression model to offer accurate prediction of car price.
