@@ -7,6 +7,7 @@ The aim is to develop a good regressionmodel to offer accurate predictionof car 
 <img src="https://camo.githubusercontent.com/51fe0e93862af83c7b5ae6d3c4c266c701d52917363ab9bc9d111adda275de66/68747470733a2f2f696d61676573382e616c706861636f646572732e636f6d2f3430352f3430353032392e6a7067" data-canonical-src="https://images8.alphacoders.com/405/405029.jpg" style="max-width: 100%;">
 
 
+
 Dataset Description:
 This dataset contains information about used cars. We are going to use for finding predictions of price with the use of regression models.
 
